@@ -1,4 +1,4 @@
-# SenzaNome Logo
+# senzano.me logo
 This repository contains the SVG project for the official SenzaNo.me logo.
 
 ## 
